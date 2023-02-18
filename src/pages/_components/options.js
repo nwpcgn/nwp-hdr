@@ -23,3 +23,5 @@ export const setTheme = (bool) => {
 	let element = document.querySelector('html')
 	element.setAttribute('data-bs-theme', bool ? 'dark' : 'light')
 }
+export const sleep = (milliseconds = 1000) =>
+	new Promise((resolve) => setTimeout(resolve, milliseconds))

@@ -7,7 +7,8 @@
 		faPause,
 		faMicrophoneSlash
 	} from '@fortawesome/free-solid-svg-icons'
-	import { _audio } from './options'
+	import { _audio, sleep } from './options'
+	import { onMount } from 'svelte'
 	let src = 'https://nwp-cgn.de/archiv/audio/haiyti_nightliner.mp3'
 	let duration = 0
 	let dur = 0
@@ -32,8 +33,13 @@
 		if (audio && audio.audio_link) {
 			paused = true
 			src = audio.audio_link
+			open = true
 		}
 	}
+	onMount(async () => {
+		await sleep(100)
+		open = false
+	})
 
 	$: onAudioChange($_audio)
 
@@ -57,6 +63,7 @@
 	<button
 		type="button"
 		class="close-button"
+		class:play={!paused && !open}
 		class:open
 		on:click={toggle}
 		aria-label="Toggle Player">
@@ -66,7 +73,7 @@
 			<Fa icon={faTimes} fw size="lg" />
 		{/if}
 	</button>
-	<div class="audio-bar">
+	<nav class="audio-bar">
 		<article class="ctrl-bar">
 			<button
 				on:click={() => (paused = !paused)}
@@ -115,17 +122,16 @@
 				{volume * 100}%
 			</span>
 		</article>
-			<audio
-				class="hidden"
-				controls={false}
-				{src}
-				bind:duration
-				bind:currentTime={time}
-				bind:paused
-				bind:volume
-				bind:muted />
-		
-	</div>
+		<audio
+			class="hidden"
+			controls={false}
+			{src}
+			bind:duration
+			bind:currentTime={time}
+			bind:paused
+			bind:volume
+			bind:muted />
+	</nav>
 </footer>
 
 <style>
@@ -169,11 +175,17 @@
 		height: var(--ab-tbtn-height);
 		justify-content: space-around;
 		align-items: center;
-		opacity: 0.7;
+		opacity: 1;
 		border-top-left-radius: var(--bs-border-radius);
-		border-bottom-left-radius: var(--bs-border-radius);
+		/* border-bottom-left-radius: var(--bs-border-radius); */
 		background-color: var(--bs-secondary);
 		color: var(--bs-light);
+		transition: background-color 250ms cubic-bezier(0.25, 0.1, 0.25, 1),
+			opacity 250ms cubic-bezier(0.42, 0, 0.58, 1);
+	}
+	.close-button.play {
+		background-color: var(--bs-primary);
+		opacity: 0.7;
 	}
 	.audio-bar {
 		position: relative;
