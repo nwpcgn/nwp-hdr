@@ -7,8 +7,7 @@
 		faComment,
 		faBook,
 		faMicrophone,
-		faPlay,
-		faBookOpen
+		faPlay
 	} from '@fortawesome/free-solid-svg-icons'
 	export let params = {}
 	const fetchData = async () => {
@@ -42,7 +41,7 @@
 	}
 </script>
 
-<div class="container-lg py-4 mb-5">
+<div class="container-lg py-5 mb-5">
 	{#await promise}
 		<Spinner />
 	{:then data}
