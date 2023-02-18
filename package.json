@@ -2,7 +2,7 @@
   "name": "nwp-hdr",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "type": "module",
   "scripts": {
     "dev": "vite",
