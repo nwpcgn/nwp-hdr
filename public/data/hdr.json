@@ -1,0 +1,302 @@
+[
+    {
+      "b_id": 1,
+      "buch": "Die Gefaehrten",
+      "id": 1,
+      "h_id": 1,
+      "name": "Folge 1: Ein festlicher Abschied",
+      "titel": "Ein festlicher Abschied",
+      "inhalt": "Frodo Beutlin schätzt nichts mehr, als eine dampfende Pfeife und ein geruhsames Leben. Dies führt er auch, bis eines Tages der Zauberer Gandalf bei ihm auftaucht und ihm eine schier unlösbare Aufgabe überträgt.",
+      "audio_link": "https://nwp-cgn.de/archiv/hdr/jrrtolkienderherrderringefantasyhoerspielklassiker_2022-12-25_derherrderringe0130einfestlicherabschied_wdronline.mp3"
+    },
+    {
+      "b_id": 1,
+      "buch": "Die Gefaehrten",
+      "id": 2,
+      "h_id": 1,
+      "name": "Folge 2: Der Ring bleibt bei Frodo",
+      "titel": "Der Ring bleibt bei Frodo",
+      "inhalt": "Gandalf kann Bilbo davon überzeugen, sich von seinem Ring zu trennen und ihn Frodo zu überlassen. Das damit das Schicksal des Zeitalters in seine Hände gelegt wird, ahnt er nicht.",
+      "audio_link": "https://nwp-cgn.de/archiv/hdr/jrrtolkienderherrderringefantasyhoerspielklassiker_2022-12-25_derherrderringe0230derringbleibtbeifrodo_wdronline.mp3"
+    },
+    {
+      "b_id": 1,
+      "buch": "Die Gefaehrten",
+      "id": 3,
+      "h_id": 1,
+      "name": "Folge 3: Der Feind regt sich",
+      "titel": "Der Feind regt sich",
+      "inhalt": "Gandalf erzählt Frodo von der Macht des Ringes und seiner Gefährlichkeit. Heimlich bricht Frodo in der Nacht mit seinen Freunden Sam und Pippin auf und verlässt mit ihnen das Auenland.",
+      "audio_link": "https://nwp-cgn.de/archiv/hdr/jrrtolkienderherrderringefantasyhoerspielklassiker_2022-12-25_derherrderringe0330derfeindregtsich_wdronline.mp3"
+    },
+    {
+      "b_id": 1,
+      "buch": "Die Gefaehrten",
+      "id": 4,
+      "h_id": 1,
+      "name": "Folge 4: Hinaus in die Welt",
+      "titel": "Hinaus in die Welt",
+      "inhalt": "In der Ferne erblicken die Gefährten einen schwarzen Reiter, der sie zu verfolgen scheint.",
+      "audio_link": "https://nwp-cgn.de/archiv/hdr/jrrtolkienderherrderringefantasyhoerspielklassiker_2022-12-25_derherrderringe0430hinausindiewelt_wdronline.mp3"
+    },
+    {
+      "b_id": 1,
+      "buch": "Die Gefaehrten",
+      "id": 5,
+      "h_id": 1,
+      "name": "Folge 5: Eine Nacht unter Elben",
+      "titel": "Eine Nacht unter Elben",
+      "inhalt": "Auf einer Lichtung werden die drei Gefährten von Elben bewirtet und erleben eine paradiesisch schöne Nacht. Aber schon bald geraten sie wieder in Bedrängnis.",
+      "audio_link": "https://nwp-cgn.de/archiv/hdr/jrrtolkienderherrderringefantasyhoerspielklassiker_2022-12-25_derherrderringe0530einenachtunterelben_wdronline.mp3"
+    },
+    {
+      "b_id": 1,
+      "buch": "Die Gefaehrten",
+      "id": 6,
+      "h_id": 1,
+      "name": "Folge 6: Verschwoerung der Freunde",
+      "titel": "Verschwoerung der Freunde",
+      "inhalt": "Auf ihrer Flucht vor den schwarzen Reitern gelangen die Hobbits auf Bauer Maggots Hof und treffen Merry, der sich ihnen anschließt.",
+      "audio_link": "https://nwp-cgn.de/archiv/hdr/jrrtolkienderherrderringefantasyhoerspielklassiker_2022-12-25_derherrderringe0630verschwoerungderfreunde_wdronline.mp3"
+    },
+    {
+      "b_id": 1,
+      "buch": "Die Gefaehrten",
+      "id": 7,
+      "h_id": 1,
+      "name": "Folge 7: Sueße Gastfreundschaft",
+      "titel": "Sueße Gastfreundschaft",
+      "inhalt": "In einer verzauberten Flussgegend geraten Merry und Pippin in die tödliche Umklammerung einer lebendigen Weide. Gerade noch rechtzeitig kommt Hilfe von Bombadil.",
+      "audio_link": "https://nwp-cgn.de/archiv/hdr/jrrtolkienderherrderringefantasyhoerspielklassiker_2022-12-25_derherrderringe0730suessegastfreundschaft_wdronline.mp3"
+    },
+    {
+      "b_id": 1,
+      "buch": "Die Gefaehrten",
+      "id": 8,
+      "h_id": 1,
+      "name": "Folge 8: Ein Waldlaeufer kommt ins Spiel",
+      "titel": "Ein Waldlaeufer kommt ins Spiel",
+      "inhalt": "Kaum wieder aufgebrochen, geraten die Freunde in einen tückischen, bösartigen Nebel und im Gasthaus Zum Tänzelnden Pony in Bree treffen sie einen seltsamen Menschen.",
+      "audio_link": "https://nwp-cgn.de/archiv/hdr/jrrtolkienderherrderringefantasyhoerspielklassiker_2022-12-25_derherrderringe0830einwaldlaeuferkommtinsspiel_wdronline.mp3"
+    },
+    {
+      "b_id": 1,
+      "buch": "Die Gefaehrten",
+      "id": 9,
+      "h_id": 1,
+      "name": "Folge 9: Der Feind greift an",
+      "titel": "Der Feind greift an",
+      "inhalt": "In der Nacht greifen die Verfolger an. Als Frodo den Fehler begeht, den Ring überzustreifen, erkennt er die Geschöpfe Mordors klar und deutlich und ist ihnen ausgeliefert.",
+      "audio_link": "https://nwp-cgn.de/archiv/hdr/jrrtolkienderherrderringefantasyhoerspielklassiker_2022-12-25_derherrderringe0930derfeindgreiftan_wdronline.mp3"
+    },
+    {
+      "b_id": 1,
+      "buch": "Die Gefaehrten",
+      "id": 10,
+      "h_id": 1,
+      "name": "Folge 10: Der Rat Elronds",
+      "titel": "Der Rat Elronds",
+      "inhalt": "Dank Elronds Heilkunst wird Frodo gerettet, doch die Gefahr ist nicht gebannt. Das Böse rückt immer näher. Elrond beschließt, dass der Ring in dem Feuer vernichtet werden muss, in dem er geschmiedet wurde.",
+      "audio_link": "https://nwp-cgn.de/archiv/hdr/jrrtolkienderherrderringefantasyhoerspielklassiker_2022-12-25_derherrderringe1030derratelronds_wdronline.mp3"
+    },
+    {
+      "b_id": 2,
+      "buch": "Die zwei Tuerme",
+      "id": 11,
+      "h_id": 1,
+      "name": "Folge 11: In die Tiefen der Welt",
+      "titel": "In die Tiefen der Welt",
+      "inhalt": "Eine Gruppe von neun auserwählten Boten bricht unter Gandalfs Führung nach Mordor auf, um dort den Ring zu vernichten. Zum Entsetzen aller beschließt Gandalf, den unterirdischen Weg durch die Minen von Moria zu gehen.",
+      "audio_link": "https://nwp-cgn.de/archiv/hdr/jrrtolkienderherrderringefantasyhoerspielklassiker_2022-12-25_derherrderringe1130indietiefenderwelt_wdronline.mp3"
+    },
+    {
+      "b_id": 2,
+      "buch": "Die zwei Tuerme",
+      "id": 12,
+      "h_id": 1,
+      "name": "Folge 12: Durins Zeiten",
+      "titel": "Durins Zeiten",
+      "inhalt": "Im finsteren Moria entdecken die Gefährten das Grab des Zwergenkönigs Balin und kurz darauf füllen sich die Gänge mit Orks und einem grausamen Wesen: einem Balrog.",
+      "audio_link": "https://nwp-cgn.de/archiv/hdr/jrrtolkienderherrderringefantasyhoerspielklassiker_2022-12-25_derherrderringe1230durinszeiten_wdronline.mp3"
+    },
+    {
+      "b_id": 2,
+      "buch": "Die zwei Tuerme",
+      "id": 13,
+      "h_id": 1,
+      "name": "Folge 13: Im Herzen des alten Reiches",
+      "titel": "Im Herzen des alten Reiches",
+      "inhalt": "Gandalf ist im Kampf mit dem Balrog in die Tiefe von Moria gestürzt. Niedergeschlagen und voller Trauer setzt die Gemeinschaft ihren Weg unter der Führung Aragorns fort und gelangt zu Galadriel und in das Elbenreich Lórien.",
+      "audio_link": "https://nwp-cgn.de/archiv/hdr/jrrtolkienderherrderringefantasyhoerspielklassiker_2022-12-25_derherrderringe1330imherzendesaltenreiches_wdronline.mp3"
+    },
+    {
+      "b_id": 2,
+      "buch": "Die zwei Tuerme",
+      "id": 14,
+      "h_id": 1,
+      "name": "Folge 14: Frodos Entscheidung",
+      "titel": "Frodos Entscheidung",
+      "inhalt": "Frodo erhält von Galadriel zum Abschied eine Kristallphiole mit dem Licht des Abendsterns. Während der Fahrt in Booten auf dem Anduin wird die Gruppe nicht nur vom Gollum verfolgt.",
+      "audio_link": "https://nwp-cgn.de/archiv/hdr/jrrtolkienderherrderringefantasyhoerspielklassiker_2022-12-25_derherrderringe1430frodosentscheidung_wdronline.mp3"
+    },
+    {
+      "b_id": 2,
+      "buch": "Die zwei Tuerme",
+      "id": 15,
+      "h_id": 1,
+      "name": "Folge 15: Die Gemeinschaft zerbricht",
+      "titel": "Die Gemeinschaft zerbricht",
+      "inhalt": "Um die anderen nicht in Gefahr zu bringen, will Frodo den Weg nach Mordor alleine fortsetzen. Gerade noch rechtzeitig entdeckt der treue Sam seinen Herrn und springt zu ihm ins Boot. Zur selben Zeit greifen die Orks die Lagerstelle an und verschleppen Merry und Pippin.",
+      "audio_link": "https://nwp-cgn.de/archiv/hdr/jrrtolkienderherrderringefantasyhoerspielklassiker_2022-12-25_derherrderringe1530diegemeinschaftzerbricht_wdronline.mp3"
+    },
+    {
+      "b_id": 2,
+      "buch": "Die zwei Tuerme",
+      "id": 16,
+      "h_id": 1,
+      "name": "Folge 16: Mit Horn und Trommeln",
+      "titel": "Mit Horn und Trommeln",
+      "inhalt": "Merry und Pippin sind den Orks entkommen, schaukeln in den knorrigen Armbeugen des Ents Baumbart und lassen sich Geschichten vom Wald und der Bosheit des Zauberers Saruman erzählen. Die Baumwesen beschließen, in den Krieg zu ziehen, um Sarumans Macht zu brechen.",
+      "audio_link": "https://nwp-cgn.de/archiv/hdr/jrrtolkienderherrderringefantasyhoerspielklassiker_2022-12-25_derherrderringe1630mithornundtrommeln_wdronline.mp3"
+    },
+    {
+      "b_id": 2,
+      "buch": "Die zwei Tuerme",
+      "id": 17,
+      "h_id": 1,
+      "name": "Folge 17: Neue Ziele",
+      "titel": "Neue Ziele",
+      "inhalt": "Gandalf, den alle für tot hielten, scheint mächtiger denn je. Doch auch die Macht der Nazgûl wird immer stärker. Gandalf ruft die Gemeinschaft dazu auf, den König von Edoras zu unterstützen. Dort aber empfängt man sie voller Misstrauen.",
+      "audio_link": "https://nwp-cgn.de/archiv/hdr/jrrtolkienderherrderringefantasyhoerspielklassiker_2022-12-25_derherrderringe1730neueziele_wdronline.mp3"
+    },
+    {
+      "b_id": 2,
+      "buch": "Die zwei Tuerme",
+      "id": 18,
+      "h_id": 1,
+      "name": "Folge 18: Ein Heer bricht auf",
+      "titel": "Ein Heer bricht auf",
+      "inhalt": "Gandalf gelingt es, Schlangenzunge als Verräter zu entlarven. Endlich findet König Théoden seinen alten Mut wieder und beschließt, sich am Kampf gegen Isengart zu beteiligen. Währenddessen sind Frodo, Sam und Gollum auf dem Weg nach Mordor.",
+      "audio_link": "https://nwp-cgn.de/archiv/hdr/jrrtolkienderherrderringefantasyhoerspielklassiker_2022-12-25_derherrderringe1830einheerbrichtauf_wdronline.mp3"
+    },
+    {
+      "b_id": 2,
+      "buch": "Die zwei Tuerme",
+      "id": 19,
+      "h_id": 1,
+      "name": "Folge 19: Kampf um die Hornburg",
+      "titel": "Kampf um die Hornburg",
+      "inhalt": "Éowyn bleibt als Herrscherin in Edoras, während die übrigen mit einem Heer von Reitern in den Krieg gegen Saruman ziehen. Als Théoden mit seinem Heer die Hornburg erreicht, muss er feststellen, dass übermächtige Orkheere das Gebirge beherrschen.",
+      "audio_link": "https://nwp-cgn.de/archiv/hdr/jrrtolkienderherrderringefantasyhoerspielklassiker_2022-12-25_derherrderringe1930kampfumdiehornburg_wdronline.mp3"
+    },
+    {
+      "b_id": 2,
+      "buch": "Die zwei Tuerme",
+      "id": 20,
+      "h_id": 1,
+      "name": "Folge 20: Nach Isengart",
+      "titel": "Nach Isengart",
+      "inhalt": "In der Nacht kommt es zum Angriff, und schon bald scheint die Festung verloren. Auch für Frodo und Sam stehen die Dinge nicht gut: Gollum hat sie zum Tor von Morannon geführt, aber es erweist sich als unüberwindbar.",
+      "audio_link": "https://nwp-cgn.de/archiv/hdr/jrrtolkienderherrderringefantasyhoerspielklassiker_2022-12-25_derherrderringe2030nachisengart_wdronline.mp3"
+    },
+    {
+      "b_id": 3,
+      "buch": "Die Rückkehr des Königs",
+      "id": 21,
+      "h_id": 1,
+      "name": "Folge 21: Sarumans Stimme",
+      "titel": "Sarumans Stimme",
+      "inhalt": "Zur Überraschung aller treffen die Gefährten an den zerstörten Stadttoren Isengarts Merry und Pippin wieder. Die beiden haben den Kampf um die Festung miterlebt und berichten, dass sich drinnen nur noch zwei Überlebende befinden: Schlangenzunge und Saruman.",
+      "audio_link": "https://nwp-cgn.de/archiv/hdr/jrrtolkienderherrderringefantasyhoerspielklassiker_2022-12-25_derherrderringe2130sarumansstimme_wdronline.mp3"
+    },
+    {
+      "b_id": 3,
+      "buch": "Die Rückkehr des Königs",
+      "id": 22,
+      "h_id": 1,
+      "name": "Folge 22: Eine Falle fuer alle Hobbits",
+      "titel": "Eine Falle fuer alle Hobbits",
+      "inhalt": "In der Nacht stiehlt Pippin die magische Kugel Sarumans aus Gandalfs Arm und wirft einen Blick hinein. Sofort gerät er in die Gewalt Saurons, sieht geflügelte Ungeheuer und andere schreckliche Dinge. Nur durch Zufall kommt er mit heiler Haut davon.",
+      "audio_link": "https://nwp-cgn.de/archiv/hdr/jrrtolkienderherrderringefantasyhoerspielklassiker_2022-12-25_derherrderringe2230einefallefuerdiehobbits_wdronline.mp3"
+    },
+    {
+      "b_id": 3,
+      "buch": "Die Rückkehr des Königs",
+      "id": 23,
+      "h_id": 1,
+      "name": "Folge 23: Der Feind vor der Stadt",
+      "titel": "Der Feind vor der Stadt",
+      "inhalt": "Dem Angriff der Riesenspinne Kankra sind Frodo und Sam außerhalb der Höhle hilflos ausgeliefert. Sam gelingt es zwar, das scheußliche Wesen in die Flucht zu schlagen. Aber Frodo liegt nach der Attacke wie tot am Boden.",
+      "audio_link": "https://nwp-cgn.de/archiv/hdr/jrrtolkienderherrderringefantasyhoerspielklassiker_2022-12-25_derherrderringe2330derfeindvorderstadt_wdronline.mp3"
+    },
+    {
+      "b_id": 3,
+      "buch": "Die Rückkehr des Königs",
+      "id": 24,
+      "h_id": 1,
+      "name": "Folge 24: Zum Tor der Toten",
+      "titel": "Zum Tor der Toten",
+      "inhalt": "Aragorn erhält mit der Botschaft Galadriels den Stab seiner Königswürde. Ein Blick in den Elbenstein verrät ihm, dass das Schicksal von Mittelerde nun auch in seiner Hand liegt. Er ist fest entschlossen, auf den Pfaden der Toten zu wandeln.",
+      "audio_link": "https://nwp-cgn.de/archiv/hdr/jrrtolkienderherrderringefantasyhoerspielklassiker_2022-12-25_derherrderringe2430zumtordertoten_wdronline.mp3"
+    },
+    {
+      "b_id": 3,
+      "buch": "Die Rückkehr des Königs",
+      "id": 25,
+      "h_id": 1,
+      "name": "Folge 25: Die Verbuendeten sammeln sich",
+      "titel": "Die Verbuendeten sammeln sich",
+      "inhalt": "Fürchterlich ist es auf den Pfaden der Toten, dunkel und unwirklich. Während Aragorn, der kommende König, das Heer der Schattenmenschen hinter sich sammelt, beschließt König Théoden, der belagerten Stadt Minas Tirith zu Hilfe zu kommen.",
+      "audio_link": "https://nwp-cgn.de/archiv/hdr/jrrtolkienderherrderringefantasyhoerspielklassiker_2022-12-25_derherrderringe2530dieverbuendetenversammelnsich_wdronline.mp3"
+    },
+    {
+      "b_id": 3,
+      "buch": "Die Rückkehr des Königs",
+      "id": 26,
+      "h_id": 1,
+      "name": "Folge 26: Feuer in der Stadt",
+      "titel": "Feuer in der Stadt",
+      "inhalt": "Nazgûls greifen Minas Tirith an. Der Truchsess hat seine Stadt schon fast aufgegeben. In dumpfer Melancholie brütet er vor sich hin, unfähig, Befehle zu erteilen. Auch Frodo und Sam verlassen die Kräfte. Den Schicksalsberg vor Augen, schleppen sie sich weiter.",
+      "audio_link": "https://nwp-cgn.de/archiv/hdr/jrrtolkienderherrderringefantasyhoerspielklassiker_2022-12-25_derherrderringe2630feuerinderstadt_wdronline.mp3"
+    },
+    {
+      "b_id": 3,
+      "buch": "Die Rückkehr des Königs",
+      "id": 27,
+      "h_id": 1,
+      "name": "Folge 27: Der Tod des Koenigs",
+      "titel": "Der Tod des Koenigs",
+      "inhalt": "Anstürmende Orks bringen das Stadttor zum Bersten. Als König Théoden sein Heer mit nie gekannter Kühnheit in die Schlacht führt, stürzt ein Nazgûl herab.",
+      "audio_link": "https://nwp-cgn.de/archiv/hdr/jrrtolkienderherrderringefantasyhoerspielklassiker_2022-12-25_derherrderringe2730dertoddeskoenigs_wdronline.mp3"
+    },
+    {
+      "b_id": 3,
+      "buch": "Die Rückkehr des Königs",
+      "id": 28,
+      "h_id": 1,
+      "name": "Folge 28: Ein Koeder fuer Mordor",
+      "titel": "Ein Koeder fuer Mordor",
+      "inhalt": "Unter Aragorns Händen zeigt das sonst wirkungslose Königskraut Wirkung. Merry, Faramir und Éowyn werden von ihren Verletzungen geheilt. Nun wissen alle, dass Aragorn der König ist.",
+      "audio_link": "https://nwp-cgn.de/archiv/hdr/jrrtolkienderherrderringefantasyhoerspielklassiker_2022-12-25_derherrderringe2830einkoederfuermordor_wdronline.mp3"
+    },
+    {
+      "b_id": 3,
+      "buch": "Die Rückkehr des Königs",
+      "id": 29,
+      "h_id": 1,
+      "name": "Folge 29: Am Schicksalsberg",
+      "titel": "Am Schicksalsberg",
+      "inhalt": "Am Tor von Mordor überbringt ein Bote Saurons die Kleidungsstücke der angeblich getöteten Hobbits Frodo und Sam. Die beiden sind jedoch am Schicksalsberg und werden von Gollum verfolgt.",
+      "audio_link": "https://nwp-cgn.de/archiv/hdr/jrrtolkienderherrderringefantasyhoerspielklassiker_2022-12-25_derherrderringe2930amschicksalsberg_wdronline.mp3"
+    },
+    {
+      "b_id": 3,
+      "buch": "Die Rückkehr des Königs",
+      "id": 30,
+      "h_id": 1,
+      "name": "Folge 30: Zu guter Letzt",
+      "titel": "Zu guter Letzt",
+      "inhalt": "Der Ring ist vernichtet, die Welt Saurons geht in Flammen auf. Endlich kann Aragorn seine Königschaft antreten.",
+      "audio_link": "https://nwp-cgn.de/archiv/hdr/jrrtolkienderherrderringefantasyhoerspielklassiker_2022-12-25_derherrderringe3030zuguterletzt_wdronline.mp3"
+    }
+]

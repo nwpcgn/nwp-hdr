@@ -1,0 +1,110 @@
+@import 'bootstrap/scss/mixins/banner';
+@include bsBanner('');
+// scss-docs-start import-stack
+// Configuration
+@import 'bootstrap/scss/functions';
+@import 'bootstrap/scss/variables';
+@import 'bootstrap/scss/variables-dark';
+
+$enable-caret: true !default;
+$enable-rounded: true !default;
+$enable-shadows: false !default;
+$enable-gradients: false !default;
+$enable-transitions: true !default;
+$enable-reduced-motion: true !default;
+$enable-smooth-scroll: true !default;
+$enable-grid-classes: true !default;
+$enable-container-classes: true !default;
+$enable-cssgrid: false !default;
+$enable-button-pointers: true !default;
+$enable-rfs: false !default;
+$enable-validation-icons: false !default;
+$enable-negative-margins: false !default;
+$enable-deprecation-messages: false !default;
+$enable-important-utilities: true !default;
+$enable-dark-mode: true !default;
+$color-mode-type: data !default; 
+
+$gray-100: #f8f9fa;
+$gray-200: #e9ecef;
+$gray-300: #dee2e6;
+$white: #fff;
+$gray-400: #ced4da;
+$gray-500: #adb5bd;
+$gray-600: #6c757d;
+$gray-700: #495057;
+$gray-800: #343a40;
+$gray-900: #212529;
+$primary: #0d6efd;
+// scss-docs-start color-variables
+$blue: #0d6efd;
+$indigo: #6610f2;
+$purple: #6f42c1;
+$pink: #d63384;
+$red: #dc3545;
+$orange: #fd7e14;
+$yellow: #ffc107;
+$green: #198754;
+$teal: #20c997;
+$cyan: #0dcaf0;
+//
+$primary: $blue;
+$secondary: $gray-600;
+$success: $green;
+$info: $pink;
+$warning: $yellow;
+$danger: $red;
+$light: $gray-100;
+$dark: $gray-900;
+$theme-colors: (
+	'primary': $primary,
+	'secondary': $secondary,
+	'success': $success,
+	'info': $info,
+	'warning': $warning,
+	'danger': $danger,
+	'light': $light,
+	'dark': $dark
+);
+$info-text: $pink !default;
+$container-max-widths: (
+	sm: 540px,
+	md: 720px,
+	lg: 960px //   xl: 1140px,
+	//   xxl: 1320px
+);
+$grid-breakpoints: (
+	xs: 0,
+	sm: 576px,
+	md: 768px,
+	lg: 992px // xl: 1200px,
+	// xxl: 1400px
+);
+// $border-color:                $gray-100;
+$link-decoration: none;
+$variable-prefix: bs- !default;
+$prefix: $variable-prefix !default;
+$spacer: 1rem;
+$spacers: (
+	0: 0,
+	1: $spacer * 0.25,
+	2: $spacer * 0.5,
+	3: $spacer,
+	4: $spacer * 1.5,
+	5: $spacer * 3
+);
+$body-bg: $white;
+$body-color: $gray-700;
+$component-active-color: $gray-800;
+$component-active-bg: $gray-200;
+$form-range-thumb-bg: $primary;
+$form-check-input-checked-bg-color: $primary;
+$list-group-active-bg: $gray-400;
+$list-group-active-border-color: $gray-100;
+$list-group-active-color: $gray-800;
+$link-color: $primary;
+$link-decoration: none;
+$link-shade-percentage: 15%;
+$link-hover-color: shift-color($link-color, $link-shade-percentage);
+$link-hover-decoration: null;
+$paragraph-margin-bottom: 1rem;
