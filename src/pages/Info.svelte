@@ -1,4 +1,6 @@
 <script>
+	import { _apiData } from './_components/_app'
+	import { get } from 'svelte/store'
 	import Fa from 'svelte-fa/src/fa.svelte'
 	import {
 		faFilm,
@@ -7,8 +9,9 @@
 		faMicrophone,
 		faBookOpen
 	} from '@fortawesome/free-solid-svg-icons'
-	import apiD from './hsp/apiData'
-	// export let pData = {}
+	
+	const apiD = get(_apiData)
+
 </script>
 
 <section class="page py-5">

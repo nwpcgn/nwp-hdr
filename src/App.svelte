@@ -6,7 +6,7 @@
 		faInfoCircle,
 	} from '@fortawesome/free-solid-svg-icons'
 	import AudioBar from './pages/_components/AudioBar.svelte'
-	import { setTheme, _options } from './pages/_components/options'
+	import { setTheme, _options } from './pages/_components/_app'
 	import Router, { location } from 'svelte-spa-router'
 	import routes from './pages/routes'
 	import { onMount } from 'svelte'

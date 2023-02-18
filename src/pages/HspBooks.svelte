@@ -1,7 +1,9 @@
 <script>
 	import Fa from 'svelte-fa/src/fa.svelte'
 	import { faCalendar, faBookOpen } from '@fortawesome/free-solid-svg-icons'
-	import apiD from './hsp/apiData'
+	import { _apiData } from './_components/_app'
+	import { get } from 'svelte/store'
+	const apiD = get(_apiData)
 </script>
 
 <div class="container-lg py-5">

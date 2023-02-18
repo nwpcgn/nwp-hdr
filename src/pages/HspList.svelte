@@ -1,7 +1,7 @@
 <script>
 	import Header from './_components/Header.svelte'
 	import Spinner from './_components/Spinner.svelte'
-	import { _audio } from './_components/options'
+	import { _audio } from './_components/_app'
 	import Fa from 'svelte-fa/src/fa.svelte'
 	import {
 		faComment,

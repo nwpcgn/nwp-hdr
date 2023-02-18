@@ -1,6 +1,6 @@
 <script>
   import { onMount } from "svelte";
-  import { _options, setTheme } from "./options";
+  import { _options, setTheme } from "./_app";
   let options = {
     op1: false,
     op2: false,

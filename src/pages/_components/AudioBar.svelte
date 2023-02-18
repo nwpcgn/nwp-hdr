@@ -7,7 +7,7 @@
 		faPause,
 		faMicrophoneSlash
 	} from '@fortawesome/free-solid-svg-icons'
-	import { _audio, sleep } from './options'
+	import { _audio, sleep } from './_app'
 	import { onMount } from 'svelte'
 	let src = 'https://nwp-cgn.de/archiv/audio/haiyti_nightliner.mp3'
 	let duration = 0

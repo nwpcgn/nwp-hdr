@@ -40,18 +40,7 @@ import Start from './Start.svelte';
         },
       },
     }),
-    "/info": wrap({
-      component: Info,
-      props: {
-        pData: {
-          title: "NWP-APP",
-          subtitle: "nwp-studio",
-          header: "Der Herr der Ringe",
-          subheader: "Information",
-          nav: []
-        },
-      },
-    }),
+    "/info": Info,
     '/hsp/*': Hsp,
     '/settings/*': Settings,
     '*': NotFound
